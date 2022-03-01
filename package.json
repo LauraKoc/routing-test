@@ -1,0 +1,13 @@
+{
+  "name": "vanillaspa",
+  "version": "1.0.0",
+  "description": "One of the first reasons people select a JavaScript framework for SPAs/PWAs is the fact that JavaScript doesn't have a built-in router.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  
+  "author": "",
+  "license": "ISC"
+  
+}
